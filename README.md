@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AkashAwale5
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Akash Awale
+- 👀 I’m worked as Java Backend Devloper
+- 🌱 I’m currently working on Spring Boot, Core Java , Spring Core , JDBC, Hibernate, JSP Servlet etc
+
 
 
 <!---
